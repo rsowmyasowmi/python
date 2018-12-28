@@ -1,2 +1,3 @@
-a=raw_input()
-print len(a.split())
+x=input("enter the words")
+y=[x]
+print(len(y))
