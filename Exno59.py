@@ -1,6 +1,6 @@
 print("Enter 10 number")
-a=[]
+A=[]
 for x in range(0,10):
 	num=int(input())
-	a.append(num)
-print(max(a))
+	A.append(num)
+print(max(A))
